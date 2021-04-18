@@ -1,0 +1,15 @@
+{
+  "name": "basic-math-quiz",
+  "version": "1.0.0",
+  "description": "2 level basic math quiz",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arjun Reddy",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "readline-sync": "^1.4.10"
+  }
+}
